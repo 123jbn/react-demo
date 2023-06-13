@@ -1,5 +1,8 @@
 .home{
   width: 100%;
   height:1380px; 
-  display: flex
+  display: flex;
+}
+.home-menu{
+  flex:1;
 }
